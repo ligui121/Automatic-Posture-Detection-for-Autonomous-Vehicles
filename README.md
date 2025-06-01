@@ -40,7 +40,7 @@ Key features:
 
 ### Data Flow
 
-MPU6050 → Raspberry Pi 4 → Motor Driver (via PWM) → Motors → Buzzer (via UART)
+MPU6050 (via I2C) → Raspberry Pi 4 → Motor Driver (via PWM) → Motors → Buzzer (via UART)
 
 ---
 
