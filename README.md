@@ -107,6 +107,6 @@ MPU6050 (via I2C) → Raspberry Pi 4 → Motor Driver (via PWM) → Motors → B
 ## 🙏 Acknowledgments
 
 We thank our professors for their invaluable guidance, and the support of our families and peers throughout the project.
-
+All team members contributed equally to data collection, modeling, experimentation, and writing.
 ---
 
